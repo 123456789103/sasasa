@@ -1,12 +1,26 @@
 ﻿  CONACT.c
-C:\c\8.30.c\8.30.c\CONACT.h(46,2): warning C4091: “typedef ”: 没有声明变量时忽略“contact”的左侧
-C:\c\8.30.c\8.30.c\CONACT.c(27,9): warning C4047: “=”:“contact *”与“int”的间接级别不同
-C:\c\8.30.c\8.30.c\CONACT.c(38,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\c\8.30.c\8.30.c\CONACT.c(40,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\c\8.30.c\8.30.c\CONACT.c(42,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\c\8.30.c\8.30.c\CONACT.c(44,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\c\8.30.c\8.30.c\CONACT.c(46,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  TEXT.c
-C:\c\8.30.c\8.30.c\CONACT.h(46,2): warning C4091: “typedef ”: 没有声明变量时忽略“contact”的左侧
-  正在生成代码...
+C:\c\8.30.c\8.30.c\CONACT.h(54,2): warning C4091: “typedef ”: 没有声明变量时忽略“contact”的左侧
+C:\c\8.30.c\8.30.c\CONACT.h(66,36): warning C4028: 形参 1 与声明不同
+C:\c\8.30.c\8.30.c\CONACT.c(28,10): warning C4047: “函数”:“const char *”与“void (__cdecl *)(contact *)”的间接级别不同
+C:\c\8.30.c\8.30.c\CONACT.c(28,10): warning C4024: “perror”: 形参和实参 1 的类型不同
+C:\c\8.30.c\8.30.c\CONACT.c(26,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(53,16): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(72,10): warning C4047: “函数”:“const char *”与“void (__cdecl *)(const contact *)”的间接级别不同
+C:\c\8.30.c\8.30.c\CONACT.c(72,10): warning C4024: “perror”: 形参和实参 1 的类型不同
+C:\c\8.30.c\8.30.c\CONACT.c(70,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(87,22): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(142,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(144,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(146,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(148,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(150,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(187,12): warning C4013: “FIND_BY_NAME”未定义；假设外部返回 int
+C:\c\8.30.c\8.30.c\CONACT.c(186,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(217,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(236,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(244,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(246,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(248,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(250,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c\8.30.c\8.30.c\CONACT.c(252,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   8.30.c.vcxproj -> C:\c\8.30.c\Debug\8.30.c.exe
